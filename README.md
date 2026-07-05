@@ -1,4 +1,4 @@
-# Authentication Tinker
+# Authentication Exploratory
 This project is an exploratory and (re)learning Basic Authentication, Bearer Authentication, and JWTs. I'm 
 interested in both what the backend and frontend code will look like in 2026. I'm also interested in providing a 
 means to modify data interactively where useful (like messing with JWTs). 
